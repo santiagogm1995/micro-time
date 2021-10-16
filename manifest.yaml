@@ -1,0 +1,4 @@
+---
+applications:
+- name: service-time
+  path: target/micro-0.0.1-SNAPSHOT.jar
